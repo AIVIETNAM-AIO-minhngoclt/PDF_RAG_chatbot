@@ -1,6 +1,6 @@
 # PDF RAG Chatbot
 
-A local Retrieval-Augmented Generation (RAG) chatbot that answers questions based on the content of any PDF document. Built with Python, Streamlit, ChromaDB, and Ollama — no internet or API keys required.
+A local Retrieval-Augmented Generation (RAG) chatbot that answers questions based on the content of any PDF document. Built with Python, Streamlit, ChromaDB, and Ollama - no internet or API keys required.
 
 ## How it works
 
